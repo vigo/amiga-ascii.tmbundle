@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Uğur Özyılmazel</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>name</key>
+	<string>Amiga Ascii</string>
+	<key>scope</key>
+	<string>ascii</string>
+	<key>semanticClass</key>
+	<string>theme.dark.amiga</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ACACAC</string>
+				<key>caret</key>
+				<string>#000000</string>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>invisibles</key>
+				<string>#BFBFBF</string>
+				<key>lineHighlight</key>
+				<string>#00000012</string>
+				<key>selection</key>
+				<string>#4D97FF54</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>8C9B6D22-703E-4E6A-A244-326519A4B620</string>
+</dict>
+</plist>
